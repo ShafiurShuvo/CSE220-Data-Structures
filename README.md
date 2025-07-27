@@ -20,10 +20,8 @@ Welcome to the **CSE220 - Data Structures** repository. This repository contains
 
 ## 🔧 How to Use
 
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/ShafiurShuvo/CSE220-Data-Structures.git
-   ```
+1. Download the Zop
+
 2. Navigate to the desired lab folder.
 
 3. Open the files using your preferred IDE or code editor (VS Code, Jupyter, etc.).
