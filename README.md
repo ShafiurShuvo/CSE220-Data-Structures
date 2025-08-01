@@ -20,7 +20,7 @@ Welcome to the **CSE220 - Data Structures** repository. This repository contains
 
 ## 🔧 How to Use
 
-1. Download the Zop
+1. Download the Zip.
 
 2. Navigate to the desired lab folder.
 
