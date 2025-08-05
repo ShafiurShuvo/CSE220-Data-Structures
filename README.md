@@ -1,6 +1,6 @@
 # CSE220 - Data Structures
 
-Welcome to the **CSE220 - Data Structures** repository. This repository contains all lab assignments from the course, organized by topic and lab number for easy navigation and usage.
+Welcome to the **CSE220 - Data Structures** repository. This repository contains all lab assignments from the course (done in **Spring 2023**), organized by topic and lab number for easy navigation and usage.
 
 > ⚙️ All codes are written in **Python 3.10 series**. Please make sure your environment supports it for full compatibility.
 
